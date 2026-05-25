@@ -1,1 +1,1 @@
-# sre-261
+Repositório referente a cedeira de Sistemas de Rádio Enlace (IFCE)
