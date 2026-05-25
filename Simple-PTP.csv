@@ -1,0 +1,14 @@
+Link Name,Site Name A,Site Name B,Latitude A,Longitude A,Latitude B,Longitude B
+Reitoria RadioA to IFCE Caucaia RadioB,Reitoria,IFCE Caucaia,-3.750853,-38.538611,-3.730908,-38.672407
+IFCE Caucaia RadioA to Rep1 RadioB,IFCE Caucaia,Rep1,-3.730908,-38.672407,-3.694786,-38.771031
+Rep1 RadioA to IFCE Pecém RadioB,Rep1,IFCE Pecém,-3.694786,-38.771031,-3.658208,-38.857189
+IFCE Pecém RadioA to Rep2 RadioB,IFCE Pecém,Rep2,-3.658208,-38.857189,-3.535964,-38.946448
+Rep2 RadioA to Rep3 RadioB,Rep2,Rep3,-3.535964,-38.946448,-3.505597,-39.019940
+Rep3 RadioA to IFCE Paracuru RadioB,Rep3,IFCE Paracuru,-3.505597,-39.019940,-3.444901,-39.041247
+IFCE Paracuru RadioA to Rep4 RadioB,IFCE Paracuru,Rep4,-3.444901,-39.041247,-3.386003,-39.306287
+Rep4 RadioA to Rep5 RadioB,Rep4,Rep5,-3.386003,-39.306287,-3.427113,-39.488691
+Rep5 RadioA to IFCE Itapipoca RadioB,Rep5,IFCE Itapipoca,-3.427113,-39.488691,-3.486074,-39.570770
+IFCE Itapipoca RadioA to Rep6 RadioB,IFCE Itapipoca,Rep6,-3.486074,-39.570770,-3.528914,-39.553394
+Rep6 RadioA to Rep7 RadioB,Rep6,Rep7,-3.528914,-39.553394,-3.552532,-39.476649
+Rep7 RadioA to Rep8 RadioB,Rep7,Rep8,-3.552532,-39.476649,-3.634844,-39.432703
+Rep8 RadioA to IFCE Umirim RadioB,Rep8,IFCE Umirim,-3.634844,-39.432703,-3.687603,-39.343963
